@@ -1,8 +1,8 @@
 class GitChangelog < Formula
   desc "Categorized change logs from git messages"
   homepage "https://github.com/aldrin/git-changelog"
-  url "https://github.com/aldrin/git-changelog/archive/v0.1.1.tar.gz"
-  sha256 "b727a58554c1e35fb8243e2fe757a8c11aeee4099207aebc3280a38b6e4384b2"
+  url "https://github.com/aldrin/git-changelog/archive/v0.2.0.tar.gz"
+  sha256 "0461115347bf7273798dcdd570c1cc09c90f0ebcf407626e92474fb23e9b0f4e"
 
   depends_on "rust" => :build
 
