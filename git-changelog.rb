@@ -1,4 +1,5 @@
 class GitChangelog < Formula
+  version "0.3.0"
   desc "Categorized change logs from git messages"
   homepage "https://github.com/aldrin/git-changelog"
   url "https://github.com/aldrin/git-changelog/releases/download/v0.3.0/git-changelog-v0.3.0-osx.tar.gz"
